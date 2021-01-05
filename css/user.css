@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+.row {   
+    margin-top:60px;
+    margin-left:310px;
+    height:350px;
+    width:700px;
+}
+
+.row h3 {
+    text-align:center;
+}
+
+.row h4 {
+    text-align: center;
+}
+
+.heading-box {
+    font-size: 15px;
+    text-align: center;
+}
+
+.input-box {
+    border-radius: 20px;
+	padding: 10px;
+	margin: 10px 0;
+	width: 90%;
+	border: 1px solid #999;
+	outline: none;
+}
+    
