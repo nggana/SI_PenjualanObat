@@ -3,14 +3,18 @@ body {
 }
 
 .row {   
-    margin-top:60px;
+    border-radius: 25px 25px 25px 25px;
+    background: rgb(0, 119, 255);
+    margin-top:45px;
     margin-left:310px;
-    height:350px;
+    height:520px;
     width:700px;
 }
 
 .row h3 {
     text-align:center;
+    margin-top:25px;
+    margin-left:15px;
 }
 
 .row h4 {
@@ -25,7 +29,8 @@ body {
 .input-box {
     border-radius: 20px;
 	padding: 10px;
-	margin: 10px 0;
+    margin: 10px 0;
+    margin-left:10px;
 	width: 90%;
 	border: 1px solid #999;
 	outline: none;
